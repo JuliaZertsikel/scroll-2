@@ -33,7 +33,8 @@ const material = new THREE.MeshPhysicalMaterial({
     transmission: 1,  
     thickness: 1,
     //был 0.5
-    ior: 0.7,
+    //0.7
+    ior: 1.7,
     specularIIntensity : 10,
     clearcoat : 1,
     sheenRoughness : 1

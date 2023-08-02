@@ -20,5 +20,13 @@
   "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
   "main": "vite.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaZertsikel/scroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuliaZertsikel/scroll/issues"
+  },
+  "homepage": "https://github.com/JuliaZertsikel/scroll#readme"
 }
